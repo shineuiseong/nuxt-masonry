@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-masonry",
+  "version": "1.0.0",
+  "description": "Vue & Nuxt Masonry component powered by CSS, dependancy free",
+  "license": "MIT",
+  "homepage": "https://github.com/shineuiseong/nuxt-masonry",
+  "author": {
+    "name" : "shineuiseong"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shineuiseong/nuxt-masonry"
+  },
+  "scripts": {
+    "build": "vue-cli-service build --target lib --name nuxt-masonry src/index.js"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "nuxt": "^2.17.1"
+  }
+}
